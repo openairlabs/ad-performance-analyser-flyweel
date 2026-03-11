@@ -28,6 +28,10 @@ Works with any data source — CSV exports, API responses, dashboard screenshots
 ## Installation
 
 ```bash
+# Auto-detects your agent (Claude Code, Cursor, Windsurf, Gemini, Codex, OpenCode)
+npx @flyweel/skill install ad-performance-analyser-flyweel
+
+# Or manually
 git clone https://github.com/openairlabs/ad-performance-analyser-flyweel.git ~/.claude/skills/ad-performance-analyser-flyweel
 ```
 

@@ -28,10 +28,6 @@ Works with any data source — CSV exports, API responses, dashboard screenshots
 ## Installation
 
 ```bash
-# Via skill.fish
-claude skill install flyweel/ad-performance-analyser-flyweel
-
-# Manual
 git clone https://github.com/flyweel/ad-performance-analyser-flyweel.git ~/.claude/skills/ad-performance-analyser-flyweel
 ```
 

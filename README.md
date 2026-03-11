@@ -28,7 +28,7 @@ Works with any data source — CSV exports, API responses, dashboard screenshots
 ## Installation
 
 ```bash
-git clone https://github.com/flyweel/ad-performance-analyser-flyweel.git ~/.claude/skills/ad-performance-analyser-flyweel
+git clone https://github.com/openairlabs/ad-performance-analyser-flyweel.git ~/.claude/skills/ad-performance-analyser-flyweel
 ```
 
 ## Usage
